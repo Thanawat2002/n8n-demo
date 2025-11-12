@@ -1,0 +1,12 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "hello-project",
+  "steps": [
+    {
+      "file": "index.js",
+      "description": "function add",
+      "line": 3
+    }
+  ],
+  "ref": "main"
+}
